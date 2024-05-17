@@ -1,0 +1,86 @@
+.navbar{
+    background-color: lightblue;
+}
+.nav-link{
+    color: darkblue;
+    font-size: 18px;
+    font-weight: bold;
+}
+.form-control{
+    border: 2px solid gold;
+}
+.btn{
+    border: 2px solid gold;
+    background-color: darkblue;
+    color: gold;
+}
+#firstbox{
+    border: 2px solid black;
+}
+#hero{
+  background-color: rgba(218, 165, 32, 0.801);
+  padding-bottom: 20px;
+  font-weight: bold;
+}
+#luxury{
+  background-color: lightblue;
+  padding-bottom: 80px;
+}
+#Our{
+  background-color: rgba(218, 165, 32, 0.801);
+  padding-bottom: 70px;
+  
+}
+#Expert{
+  background-color: lightblue;
+  padding-bottom: 70px;
+}
+#Residental{
+  background-color: rgba(218, 165, 32, 0.801);
+  padding-bottom: 60px;
+}
+#Commercial{
+  background-color: rgba(218, 165, 32, 0.801);
+  padding-bottom: 20px;
+}
+#Featured{
+  background-color: lightblue;
+  padding-bottom: 60px;
+}
+#Transform{
+  background-color: rgba(218, 165, 32, 0.801);
+  padding-bottom: 60px;
+}
+#Ourlux{
+  background-color: lightblue;
+  padding-bottom: 50px;
+}
+#we{
+  background-color: rgba(218, 165, 32, 0.801);
+  padding-bottom: 50px;
+}
+#Why{
+  background-color: lightblue;
+  padding-bottom: 30px;
+}
+#Reviews{
+  background-color: rgba(218, 165, 32, 0.699);
+  padding-bottom: 30px;
+}
+#Frequently{
+  background-color: lightblue;
+}
+#last{
+  background-color: rgba(218, 165, 32, 0.699);
+  padding-bottom: 30px;
+  padding-top: 30px;
+}
+#footer{
+  background-color: lightblue;
+  text-align: center;
+  font-size: 20px;
+}
+
+.faq-item {
+        margin-bottom: 20px;
+    }
